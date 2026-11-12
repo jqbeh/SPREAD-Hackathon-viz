@@ -1,7 +1,6 @@
 # SPREAD-Hackathon-viz
-Plasmid visualisation tool
 
-**Plasmid Explorer** is an interactive R Shiny dashboard for exploring plasmid collections. It brings together the outputs of common plasmid-analysis pipelines: metadata, antimicrobial resistance (AMR) genes, mobility, mobile genetic elements, genetic context and plasmid clustering. You can browse them in one place without writing any code.
+**PlasmidLens** is an interactive R Shiny dashboard for exploring plasmid collections. It brings together the outputs of common plasmid-analysis pipelines: metadata, antimicrobial resistance (AMR) genes, mobility, mobile genetic elements, genetic context and plasmid clustering. You can browse them in one place without writing any code.
 
 Input files are recognised by their column headers, not their file names. The app joins them by plasmid accession, so you can supply any combination of supported files. A missing file type only disables the plots that need its fields.
 
@@ -10,31 +9,29 @@ Input files are recognised by their column headers, not their file names. The ap
 The app is organised into five tabs:
 
 ### 1. Overview
-- Headline counts: genome isolates, total plasmids and replicon (Rep) types
-- Donut charts of isolate **source type** and **country of origin**
-- Box plots of **plasmid size (kb)** and **GC content (%)**
-- Stacked bar chart of **species by MLST sequence type (ST)**
-- **Replicon type** distribution
-- A dataset summary that lists which plots are available with the current data
+- Headline showing total genomes, plasmids, and replicon types
+- Summary statstics for genomes, including isolate source and country
+- Plasmid size and GC content
+- Species and MLST distribution
+- Plasmid replicon distributions
 
 ### 2. AMR gene associations
-- Summary strip: total plasmids, ARG types, Rep types, IS types, transposon types and virulence factor types
-- **ARG gene frequency** bar chart, which you can filter by resistance gene
-- **Sankey diagram** of species → replicon type → AMR drug class flows, which you can filter by resistance gene
-- Count plots for **MOB type**, **MPF type**, **replicon type**, **IS elements**, **transposons** and **virulence factors**
+- Headline showing total plasmids, ARG types, Rep types, IS types, transposon types and virulence factor
+- ARG frequency (customisable filters)
+- Count plots for Rep, MOB, MPF types, IS elements, transposons, and virulence factors
 
 ### 3. Genetic context
-- **Single plasmid:** select any annotated CDS from a Bakta annotation and draw its gene neighbourhood with `gggenes`. You can choose how many CDSs to show upstream and downstream of it, following the selected gene's strand. The tab also shows a feature table you can export (copy, CSV or Excel) and details of the selected feature.
-- **Multiple plasmids:** load an interactive Clinker comparison (`clinker ... -p plot.html`) and choose an anchor gene (homology group, e.g. *optrA*). The plot is then trimmed to N genes upstream and downstream of that gene in every cluster. You can hide clusters that lack the anchor gene and download the trimmed HTML.
+- **Single plasmid:** select any annotated CDS from a Bakta annotation and draw its gene neighbourhood with `gggenes`. You can choose how many CDSs to show upstream and downstream of it. The tab also shows a feature table you can export (copy, CSV or Excel) and details of the selected feature.
+- **Multiple plasmids:** load an interactive Clinker comparison (`plot.html`) and choose an anchor gene (homology group, e.g. *blaNDM-1*). The plot is then trimmed to N genes upstream and downstream of that gene in every cluster.
 
 ### 4. Consensus network
-This tab compares plasmid relatedness from **Pling** with clusters from **mge-cluster**.
-- An interactive network (`visNetwork`) with edges coloured by agreement: **both** (green), **Pling only** (orange) or **mge-cluster only** (purple)
-- Adjustable Pling thresholds: maximum containment distance, maximum DCJ-Indel distance and an option to require the same Pling community
+- Compares plasmid relatedness from different clustering tools, such as Pling and mge-cluster.
+- An interactive network with edges coloured by agreement between tools.
+- Adjustable thresholds: maximum containment distance, maximum DCJ-Indel distance and an option to require the same Pling community
 - Nodes can be coloured by mge-cluster, Pling community or Pling subcommunity
 - A heatmap and cross-tabulation of Pling subcommunities against mge-clusters
 - A pairwise relationship table and input diagnostics (for example, IDs that don't match between the tools)
-- Downloads of the edge table (CSV), node table (CSV) and network (GraphML)
+- Download options for edge table (CSV), node table (CSV) and network (GraphML)
 
 ### 5. Data import
 - Upload one or more CSV/TSV/TXT pipeline outputs, or reload files from the data folder
