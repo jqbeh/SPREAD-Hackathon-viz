@@ -1,0 +1,15 @@
+# Annotated with Bakta
+# Software: v1.8.1
+# Database: v5.0, full
+# DOI: 10.1099/mgen.0.000685
+# URL: github.com/oschwengers/bakta
+#Sequence Id	Type	Start	Stop	Strand	Locus Tag	Gene	Product	DbXrefs
+contig_1	sorf	142	189	+	OIDDJA_00005	ermA	Leader peptide of ErmA	SO:0001217, UniParc:UPI000D5A4296, UniRef:UniRef100_A0A2S1PKR3, UniRef:UniRef50_A0A2S1PKR3, UniRef:UniRef90_A0A2S1PKR3
+contig_1	cds	218	949	+	OIDDJA_00010	erm(A)	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(A)	NCBIFam:NF012222.1, RefSeq:WP_002360844.1, SO:0001217, UniParc:UPI00027C80AA, UniRef:UniRef100_A0A8F9SDS5, UniRef:UniRef50_P13956, UniRef:UniRef90_B0FSL5
+contig_1	cds	1074	1436	-	OIDDJA_00015		Flavodoxin	RefSeq:WP_024378353.1, SO:0001217, UniParc:UPI00041947B6, UniRef:UniRef100_A0A2L1K551, UniRef:UniRef50_A0A2L1K551, UniRef:UniRef90_A0A2L1K551
+contig_1	cds	1968	2102	-	OIDDJA_00020		Transposase	RefSeq:WP_002415371.1, SO:0001217, UniParc:UPI00027C8265, UniRef:UniRef100_A0A2X1LUT2, UniRef:UniRef50_A0A2X1LUT2, UniRef:UniRef90_A0A2X1LUT2
+contig_1	cds	2366	4279	-	OIDDJA_00025	optrA	ABC-F type ribosomal protection protein OptrA	NCBIProtein:WP_063854496.1, RefSeq:WP_229023995.1, SO:0001217, UniParc:UPI000D7E0844, UniRef:UniRef100_A0A7T8QZS9, UniRef:UniRef50_A0A7R7ICU3, UniRef:UniRef90_A0A4T2H7F2
+contig_1	cds	4652	4843	-	OIDDJA_00030		PIG-L family deacetylase	SO:0001217, UniParc:UPI0006154931, UniRef:UniRef100_A0A0E3H0X1, UniRef:UniRef50_A0A0E3H0X1, UniRef:UniRef90_A0A0E3H0X1
+contig_1	cds	5021	6448	-	OIDDJA_00035	fexA	chloramphenicol/florfenicol efflux MFS transporter FexA	NCBIProtein:WP_015585966.1, RefSeq:WP_065813868.1, SO:0001217, UniParc:UPI0006157504, UniRef:UniRef100_A0A8F9WT07, UniRef:UniRef50_A0A1R0WHR0, UniRef:UniRef90_A0A2U8T3W9
+contig_1	cds	6702	6845	-	OIDDJA_00040		hypothetical protein	RefSeq:WP_002360221.1, SO:0001217, UniParc:UPI00028299FB, UniRef:UniRef100_A0A8G0W5F0, UniRef:UniRef50_A0A8E8PJ97, UniRef:UniRef90_A0A8G0W5F0
+contig_1	cds	7552	7989	+	OIDDJA_00045		Phage protein	RefSeq:WP_174116110.1, SO:0001217, UniParc:UPI0006156990, UniRef:UniRef100_A0A0E3KI77, UniRef:UniRef50_A0A0E3KI77, UniRef:UniRef90_A0A0E3KI77
