@@ -1,0 +1,101 @@
+Accession,host_species,host_ST,country,source_type,collection_date
+JN626286.1,Enterococcus faecium,ST17,United Kingdom,Human clinical,14/3/2016
+KP659188.1,Enterococcus faecium,ST18,Spain,Animal,2/9/2017
+CP022153.1,Enterococcus faecium,ST117,Germany,Human clinical,21/11/2019
+LN864821.1,Enterococcus faecium,ST80,Denmark,Human clinical,7/2/2023
+KP025948.1,Enterococcus faecium,ST80,Denmark,Human clinical,15/2/2023
+CP015071.1,Enterococcus faecium,ST80,Denmark,Human clinical,22/2/2023
+CP015075.2,Enterococcus faecium,ST80,Denmark,Human clinical,1/3/2023
+CP022150.1,Enterococcus faecium,ST80,Denmark,Human clinical,9/3/2023
+CP045727.1,Enterococcus faecium,ST80,Denmark,Environment,15/3/2023
+AP006726.1,Enterococcus faecium,ST78,Japan,Human clinical,30/6/2015
+AY378100.1,Enterococcus faecium,ST203,Netherlands,Human clinical,18/4/2018
+CP014009.1,Enterococcus faecium,ST80,Denmark,Human clinical,27/3/2023
+CP014011.1,Enterococcus faecium,ST1421,Australia,Human clinical,10/8/2021
+CP019049.1,Enterococcus faecium,ST1421,Australia,Human clinical,3/9/2021
+CP016815.1,Enterococcus faecium,ST796,Australia,Environment,12/5/2020
+CP034046.1,Enterococcus faecalis,ST6,United States,Human clinical,24/1/2019
+CP034054.1,Enterococcus faecalis,ST16,United States,Animal,6/10/2020
+CP034201.2,Enterococcus faecium,ST192,Sweden,Animal,19/6/2022
+CP040595.1,Enterococcus faecium,ST1421,Denmark,Human clinical,11/1/2024
+SYNTH_PLASMID_020,Enterococcus faecium,ST80,Denmark,Human clinical,3/1/2018
+SYNTH_PLASMID_021,Enterococcus faecalis,ST179,Australia,Environment,14/2/2018
+SYNTH_PLASMID_022,Enterococcus faecium,ST17,Spain,Animal,24/2/2018
+SYNTH_PLASMID_023,Enterococcus faecium,ST80,Japan,Wastewater,25/2/2018
+SYNTH_PLASMID_024,Enterococcus faecium,ST16,United Kingdom,Animal,20/3/2018
+SYNTH_PLASMID_025,Enterococcus faecalis,ST6,Canada,Wastewater,27/3/2018
+SYNTH_PLASMID_026,Enterococcus faecium,ST192,Denmark,Animal,8/5/2018
+SYNTH_PLASMID_027,Enterococcus faecium,ST80,Italy,Food,28/5/2018
+SYNTH_PLASMID_028,Enterococcus faecalis,ST6,Germany,Food,30/5/2018
+SYNTH_PLASMID_029,Enterococcus faecium,ST203,Germany,Food,21/6/2018
+SYNTH_PLASMID_030,Enterococcus faecium,ST796,Denmark,Environment,26/6/2018
+SYNTH_PLASMID_031,Enterococcus faecium,ST17,Sweden,Wastewater,13/7/2018
+SYNTH_PLASMID_032,Enterococcus faecalis,ST16,Denmark,Environment,25/7/2018
+SYNTH_PLASMID_033,Enterococcus faecium,ST796,Japan,Animal,13/8/2018
+SYNTH_PLASMID_034,Enterococcus faecalis,ST256,United Kingdom,Human clinical,27/8/2018
+SYNTH_PLASMID_035,Enterococcus faecium,ST6,United Kingdom,Animal,27/9/2018
+SYNTH_PLASMID_036,Enterococcus faecium,ST796,Denmark,Environment,19/10/2018
+SYNTH_PLASMID_037,Enterococcus faecium,ST192,Japan,Environment,1/11/2018
+SYNTH_PLASMID_038,Enterococcus faecalis,ST179,Japan,Wastewater,14/11/2018
+SYNTH_PLASMID_039,Enterococcus faecium,ST1421,Sweden,Animal,16/12/2018
+SYNTH_PLASMID_040,Enterococcus faecium,ST6,Japan,Environment,23/12/2018
+SYNTH_PLASMID_041,Enterococcus faecium,ST16,Sweden,Environment,4/1/2019
+SYNTH_PLASMID_042,Enterococcus faecium,ST796,Australia,Wastewater,26/1/2019
+SYNTH_PLASMID_043,Enterococcus faecium,ST721,France,Environment,30/1/2019
+SYNTH_PLASMID_044,Enterococcus faecium,ST18,United Kingdom,Environment,24/2/2019
+SYNTH_PLASMID_045,Enterococcus faecium,ST1421,Sweden,Wastewater,16/3/2019
+SYNTH_PLASMID_046,Enterococcus faecium,ST796,France,Food,10/4/2019
+SYNTH_PLASMID_047,Enterococcus faecium,ST80,Denmark,Wastewater,28/4/2019
+SYNTH_PLASMID_048,Enterococcus faecium,ST6,Australia,Wastewater,11/5/2019
+SYNTH_PLASMID_049,Enterococcus faecium,ST80,Netherlands,Wastewater,22/5/2019
+SYNTH_PLASMID_050,Enterococcus faecium,ST80,Spain,Wastewater,19/6/2019
+SYNTH_PLASMID_051,Enterococcus faecium,ST16,Denmark,Human clinical,19/6/2019
+SYNTH_PLASMID_052,Enterococcus faecalis,ST179,Germany,Human clinical,22/7/2019
+SYNTH_PLASMID_053,Enterococcus faecium,ST16,United Kingdom,Human clinical,11/8/2019
+SYNTH_PLASMID_054,Enterococcus faecium,ST80,Sweden,Environment,23/8/2019
+SYNTH_PLASMID_055,Enterococcus faecium,ST16,Netherlands,Food,23/8/2019
+SYNTH_PLASMID_056,Enterococcus faecium,ST796,Japan,Human clinical,24/9/2019
+SYNTH_PLASMID_057,Enterococcus faecium,ST192,Germany,Food,7/10/2019
+SYNTH_PLASMID_058,Enterococcus faecium,ST80,Sweden,Animal,22/10/2019
+SYNTH_PLASMID_059,Enterococcus faecium,ST796,Germany,Wastewater,8/11/2019
+SYNTH_PLASMID_060,Enterococcus faecalis,ST179,Netherlands,Food,21/11/2019
+SYNTH_PLASMID_061,Enterococcus faecium,ST80,Germany,Environment,23/12/2019
+SYNTH_PLASMID_062,Enterococcus faecium,ST721,Netherlands,Environment,5/1/2020
+SYNTH_PLASMID_063,Enterococcus faecium,ST80,Japan,Human clinical,28/1/2020
+SYNTH_PLASMID_064,Enterococcus faecalis,ST179,United States,Animal,13/2/2020
+SYNTH_PLASMID_065,Enterococcus faecium,ST18,Sweden,Environment,11/2/2020
+SYNTH_PLASMID_066,Enterococcus faecium,ST80,France,Human clinical,26/2/2020
+SYNTH_PLASMID_067,Enterococcus faecium,ST17,Japan,Animal,12/3/2020
+SYNTH_PLASMID_068,Enterococcus faecium,ST80,Australia,Environment,29/3/2020
+SYNTH_PLASMID_069,Enterococcus faecium,ST80,United Kingdom,Wastewater,2/5/2020
+SYNTH_PLASMID_070,Enterococcus faecium,ST721,Sweden,Human clinical,22/5/2020
+SYNTH_PLASMID_071,Enterococcus faecium,ST796,Germany,Wastewater,24/5/2020
+SYNTH_PLASMID_072,Enterococcus faecium,ST80,Canada,Environment,10/6/2020
+SYNTH_PLASMID_073,Enterococcus faecium,ST796,Australia,Animal,1/7/2020
+SYNTH_PLASMID_074,Enterococcus faecium,ST721,Australia,Animal,16/7/2020
+SYNTH_PLASMID_075,Enterococcus faecium,ST80,Australia,Food,10/8/2020
+SYNTH_PLASMID_076,Enterococcus faecium,ST6,Germany,Animal,5/9/2020
+SYNTH_PLASMID_077,Enterococcus faecium,ST6,Italy,Wastewater,4/9/2020
+SYNTH_PLASMID_078,Enterococcus faecium,ST721,Canada,Wastewater,25/9/2020
+SYNTH_PLASMID_079,Enterococcus faecium,ST796,Spain,Environment,15/10/2020
+SYNTH_PLASMID_080,Enterococcus faecalis,ST16,Germany,Food,28/10/2020
+SYNTH_PLASMID_081,Enterococcus faecium,ST203,United States,Wastewater,15/11/2020
+SYNTH_PLASMID_082,Enterococcus faecium,ST721,Canada,Animal,18/12/2020
+SYNTH_PLASMID_083,Enterococcus faecium,ST16,Canada,Food,31/12/2020
+SYNTH_PLASMID_084,Enterococcus faecium,ST203,Spain,Human clinical,2/1/2021
+SYNTH_PLASMID_085,Enterococcus faecalis,ST179,Germany,Wastewater,3/2/2021
+SYNTH_PLASMID_086,Enterococcus faecium,ST192,Canada,Environment,7/2/2021
+SYNTH_PLASMID_087,Enterococcus faecium,ST796,Germany,Environment,12/3/2021
+SYNTH_PLASMID_088,Enterococcus faecalis,ST16,United States,Food,12/3/2021
+SYNTH_PLASMID_089,Enterococcus faecium,ST796,Canada,Human clinical,23/3/2021
+SYNTH_PLASMID_090,Enterococcus faecium,ST203,Spain,Food,28/4/2021
+SYNTH_PLASMID_091,Enterococcus faecium,ST80,Canada,Environment,11/5/2021
+SYNTH_PLASMID_092,Enterococcus faecium,ST117,Australia,Human clinical,3/6/2021
+SYNTH_PLASMID_093,Enterococcus faecium,ST18,Sweden,Human clinical,31/5/2021
+SYNTH_PLASMID_094,Enterococcus faecium,ST80,Canada,Environment,3/7/2021
+SYNTH_PLASMID_095,Enterococcus faecium,ST203,Sweden,Food,8/7/2021
+SYNTH_PLASMID_096,Enterococcus faecalis,ST256,Australia,Human clinical,17/7/2021
+SYNTH_PLASMID_097,Enterococcus faecium,ST17,Sweden,Food,23/8/2021
+SYNTH_PLASMID_098,Enterococcus faecium,ST203,United States,Environment,19/8/2021
+SYNTH_PLASMID_099,Enterococcus faecium,ST203,Italy,Environment,12/9/2021
+SYNTH_PLASMID_100,Enterococcus faecalis,ST179,Netherlands,Human clinical,20/10/2021
